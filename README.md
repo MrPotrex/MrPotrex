@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bendiciones 👋
 
-<!--
-**MrPotrex/MrPotrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DATOS DE INTERES:
 
-Here are some ideas to get you started:
+- 🌝 Nick: Mancotrex
+- 🌱 Localidad: Granada
+- 👯 Comunidad: DaRealCommunity
+- 🤔 Edad: 27
+- ⚡ Me gusta: Juegos, Twitch, FiveM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mancotrex GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpotrex&show_icons=true)
+
+## LENGUAJES QUE USO:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpotrex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
