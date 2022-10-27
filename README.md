@@ -4,9 +4,8 @@
 
 - 🌝 Nick: Mancotrex
 - 🌱 Localidad: Granada
-- 👯 Comunidad: DaRealCommunity
 - 🤔 Edad: 27
-- ⚡ Me gusta: Juegos, Twitch, FiveM
+- ⚡ Me gusta: Juegos, Twitch, FiveM, DayZ
 
 ![Mancotrex GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpotrex&show_icons=true)
 
