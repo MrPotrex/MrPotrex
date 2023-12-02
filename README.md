@@ -4,7 +4,7 @@
 
 - 🌝 Nick: Mancotrex
 - 🌱 Localidad: Granada
-- 🤔 Edad: 27
+- 🤔 Edad: 28
 - ⚡ Me gusta: Juegos, Twitch, FiveM, DayZ
 
 ![Mancotrex GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpotrex&show_icons=true)
