@@ -5,7 +5,7 @@
 - 🌝 Nick: MrPotrex
 - 🌱 Localidad: Granada
 - 🤔 Edad: 29
-- ⚡ Me gusta: Videouegos, Twitch, FiveM, DayZ
+- ⚡ Me gusta: Videojuegos, Twitch, FiveM, DayZ
 
 ![Mancotrex GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpotrex&show_icons=true)
 
