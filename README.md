@@ -7,7 +7,7 @@
 - 🤔 Edad: 29
 - ⚡ Me gusta: Videojuegos, Twitch, FiveM, DayZ
 
-![MrPotrex GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpotrex&show_icons=true)
+<a href="https://ko-fi.com/thelindat"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=MrPotrex&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 
 ## LENGUAJES QUE USO:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpotrex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
