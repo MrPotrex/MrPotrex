@@ -2,7 +2,7 @@
 
 ## DATOS DE INTERES:
 
-- 🌝 Nick: MrPotrex
+- 🌝 Nombre: Fran
 - 🌱 Localidad: Granada
 - 🤔 Edad: 29
 - ⚡ Me gusta: Videojuegos, Twitch, FiveM, DayZ
