@@ -7,6 +7,10 @@
 - 🤔 Edad: 29
 - ⚡ Me gusta: Videojuegos, Twitch, FiveM, DayZ
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrpotrex" />
+</a>
+
 ## LENGUAJES QUE USO:
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpotrex&layout=compact&langs_count=8&card_width=320" />
