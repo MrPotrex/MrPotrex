@@ -5,7 +5,7 @@
 - 🌝 Nombre: Fran
 - 🌱 Localidad: Granada
 - 🤔 Edad: 29
-- ⚡ Me gusta: Videojuegos, Twitch, FiveM, DayZ
+- ⚡ Me gusta: Videojuegos, Youtube y Godot
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrpotrex" />
