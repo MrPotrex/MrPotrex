@@ -23,7 +23,7 @@
 
 
 ## REDES SOCIALES:
-[<img src="https://img.shields.io/discord/1327883048792100864?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>](https://discord.gg/kVEZyV68gt) [<img src="https://img.shields.io/youtube/channel/subscribers/UCtA-_xN12bT_8UewRqge2wA?style=for-the-badge&logo=youtube&labelColor=da3f3f&logoColor=white&color=2c2f33&label=Youtube"/>]([https://discord.gg/kVEZyV68gt](https://www.youtube.com/channel/UCtA-_xN12bT_8UewRqge2wA)) [<img src="https://img.shields.io/twitter/follow/MrPotrex?style=for-the-badge&logo=x&labelColor=444444&logoColor=white&color=444444&label=Sigueme en X" />]([https://discord.gg/kVEZyV68gt](https://x.com/MrPotrex))
+[<img src="https://img.shields.io/discord/215474666981163008?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>](https://discord.gg/HpwGWadKjM) [<img src="https://img.shields.io/youtube/channel/subscribers/UChC4bc_gdnS8wB9IW2hvVbg?style=for-the-badge&logo=youtube&labelColor=da3f3f&logoColor=white&color=2c2f33&label=Youtube"/>](https://www.youtube.com/channel/UChC4bc_gdnS8wB9IW2hvVbg) [<img src="https://img.shields.io/twitter/follow/MrPotrex?style=for-the-badge&logo=x&labelColor=444444&logoColor=white&color=444444&label=Sigueme en X" />](https://x.com/MrPotrex)
 
 
 
