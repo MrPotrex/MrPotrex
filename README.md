@@ -17,10 +17,12 @@
 </a>
 
 ## MIS PROYECTOS
+<a href="https://github.com/MrPotrex/Serie_Tutorial_DayZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpotrex&repo=Serie_Tutorial_DayZ" />
+</a>
 <a href="https://github.com/MrPotrex/llantas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpotrex&repo=llantas" />
 </a>
-
 
 ## REDES SOCIALES:
 [<img src="https://img.shields.io/discord/215474666981163008?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>](https://discord.gg/HpwGWadKjM) [<img src="https://img.shields.io/youtube/channel/subscribers/UChC4bc_gdnS8wB9IW2hvVbg?style=for-the-badge&logo=youtube&labelColor=da3f3f&logoColor=white&color=2c2f33&label=Youtube"/>](https://www.youtube.com/channel/UChC4bc_gdnS8wB9IW2hvVbg) [<img src="https://img.shields.io/twitter/follow/MrPotrex?style=for-the-badge&logo=x&labelColor=444444&logoColor=white&color=444444&label=Sigueme en X" />](https://x.com/MrPotrex)
